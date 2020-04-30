@@ -1,0 +1,3 @@
+rootProject.name='World Countries Sample'
+include ':app'
+include ':world-countries'
